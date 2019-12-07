@@ -1,0 +1,9 @@
+1,raul,123,nose,barrendero
+2,jose,132,nose,mamon,josefa,142,nose,nose
+4,pepe,162,nose,nose
+5,yizus,152,nose,nose
+6,andrea,153,coca,nose
+7,adres,32,nose,nose
+8,juan,50,nose,nose
+9,juana,100,nose,nose
+10,luisa,1000,lic.pscologia,nose
